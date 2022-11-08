@@ -11,12 +11,13 @@ This was implemented directly from the 1975 Donald B Johnson [paper][5] "Finding
 [3]: http://ironpython.net/
 [4]: https://en.wikipedia.org/wiki/Cycle_(graph_theory)
 [5]: https://doi.org/10.1137/0204007 
+[6]: https://code.activestate.com/recipes/578507/ Tarjan's algorithm non-recursive implementation.
 
 The original paper which described the algorithm:  
 Donald B Johnson. "Finding all the elementary circuits of a directed graph." SIAM Journal on Computing. 1975.
 
-Tarjan's algorithm non-recursive implementation.
-[6]: https://code.activestate.com/recipes/578507/
+
+
 
 
 
