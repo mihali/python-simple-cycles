@@ -2,7 +2,7 @@
 
 This is an algorithm for finding all the simple [cycles][4] in a directed graph.
 
-Originally, I implemented this directly from the 1975 Donald B Johnson [paper][5] "Finding all the elementary circuits of a directed graph". Later, I found an error in my code, found NetworkX's code, and slightly changed _that_ code so it didn't depend on the NetworkX data structures (so the algorithm could be used in [IronPython][3]).
+This was implemented directly from the 1975 Donald B Johnson [paper][5] "Finding all the elementary circuits of a directed graph" with modificatios so that it didn't depend on the NetworkX data structures (so the algorithm could be used in [IronPython][3]).
 
 [NetworkX][1]'s [original implementation][2]
 
